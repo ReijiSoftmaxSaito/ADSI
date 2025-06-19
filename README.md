@@ -1,1 +1,1 @@
-# ADSI
+# [CVPR2025 workshop] Domain Generalization through Attenuation of Domain-Specific Information
