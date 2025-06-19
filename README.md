@@ -1,7 +1,7 @@
 # [CVPR2025 Workshops] Domain Generalization through Attenuation of Domain-Specific Information
 
-[reiji saito](https://www.researchgate.net/scientific-contributions/Reiji-Saito-2306878039), kazuhiro hotta <br />
-Meijo University (JAPAN)
+[Reiji Saito](https://www.researchgate.net/scientific-contributions/Reiji-Saito-2306878039), Kazuhiro Hotta <br />
+Meijo University, <span style="color:red">JAPAN</span>
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-generalization-through-attenuation-of/domain-generalization-on-cityscapes-to-acdc)](https://paperswithcode.com/sota/domain-generalization-on-cityscapes-to-acdc?p=domain-generalization-through-attenuation-of)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/domain-generalization-through-attenuation-of/domain-generalization-on-gta5-to-cityscapes)](https://paperswithcode.com/sota/domain-generalization-on-gta5-to-cityscapes?p=domain-generalization-through-attenuation-of)
