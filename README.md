@@ -44,6 +44,7 @@ pip install "mmdet>=3.0.0"
 pip install xformers=='0.0.20' # optional for DINOv2
 pip install -r requirements.txt
 pip install future tensorboard
+```
 
 ## Dataset Preparation
 The Preparation is similar as [DDB](https://github.com/xiaoachen98/DDB).
