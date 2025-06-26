@@ -1,4 +1,4 @@
-# [CVPR2025 Workshops] Domain Generalization through Attenuation of Domain-Specific Information
+# [CVPR2025 Workshop] Domain Generalization through Attenuation of Domain-Specific Information
 
 [Reiji Saito](https://www.researchgate.net/scientific-contributions/Reiji-Saito-2306878039), [Kazuhiro Hotta](https://wwwms.meijo-u.ac.jp/kazuhotta/) <br />
 Meijo University, 🍣JAPAN🍜
