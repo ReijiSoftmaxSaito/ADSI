@@ -2631,7 +2631,7 @@ class ADSI(BaseTransform):
         """
 
         # Apply transformation probabilistically
-        if random.random() < self.prob:
+        if random.random() > self.prob:
             return results
         
         # Get actual image size
